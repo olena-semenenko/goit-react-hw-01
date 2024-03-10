@@ -1,5 +1,6 @@
 import css from './Profile.module.css';
 
+// eslint-disable-next-line react/prop-types
 const Profile = ({ username, tag, location, avatar, stats }) => {
   return (
     <div className={css.profile_card}>
