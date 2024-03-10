@@ -1,0 +1,8 @@
+.friendlist-container{
+margin-top: 20px;
+}
+.friendlist{
+    display: flex;
+    gap: 5px;
+    list-style: none;
+}

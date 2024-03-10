@@ -1,0 +1,23 @@
+
+.friend-item{
+    display:flex;
+    flex-direction: column;
+    width: 150px;
+    align-items:center;
+    gap: 10px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.friend-name{
+    font-weight: 600;
+}
+.friend-online{
+    color: green;
+}
+.friend-ofline{
+    color: red;
+}
