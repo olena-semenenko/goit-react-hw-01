@@ -1,4 +1,4 @@
-.profile-card{
+.profile_card{
   padding-top: 10px;
  
     width: 300px;
@@ -7,7 +7,7 @@
     border-radius: 12px; 
     border: solid 2px black  
 }
-.profile-info{
+.profile_info{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -16,19 +16,19 @@
     font-weight: 500;
     color: grey;
 }
-.profile-img{
+.profile_img{
     width: 100px;
     height: 100px;
     border-radius: 50%;
     border: solid 2px black
 
 }
-.profile-name{
+.profile_name{
     color: black;
     font-size: 22px;
     font-weight: 600;
 }
-.profile-stats{
+.profile_stats{
     list-style: none;
     margin-top: 20px;
     display: flex;
@@ -53,7 +53,7 @@
 .stats:first-child{
     border-left: 0
 }
-.stats-info{
+.stats_info{
  font-size: 18px;
 font-weight: 600;   
 }

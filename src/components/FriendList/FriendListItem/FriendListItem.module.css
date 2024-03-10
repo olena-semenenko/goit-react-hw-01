@@ -1,5 +1,5 @@
 
-.friend-item{
+.friend_item{
     display:flex;
     flex-direction: column;
     width: 150px;
@@ -12,12 +12,12 @@
     font-size: 16px;
     font-weight: 400;
 }
-.friend-name{
+.friend_name{
     font-weight: 600;
 }
-.friend-online{
+.friend_online{
     color: green;
 }
-.friend-ofline{
+.friend_ofline{
     color: red;
 }

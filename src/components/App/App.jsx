@@ -8,7 +8,7 @@ import TransactionHistory from '../TransactionHistory/TransactionHistory'
 import user from '/src/data/User.json'
 import friends from '/src/data/Friends.json'
 import transaction from '/src/data/Transaction.json'
-console.log(transaction)
+
 const { username, tag, location, avatar, stats } = user
 
 const App = () => {
