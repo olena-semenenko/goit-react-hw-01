@@ -17,6 +17,12 @@
 .table_line td{
     border: 1px solid black
 }
+.table_line td:first-child{
+  text-transform: capitalize;
+ 
+
+ 
+}
 
 tbody tr:nth-child(odd) {
   background-color: #ebe6ea;
